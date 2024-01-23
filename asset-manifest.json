@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/emailreactjs/static/css/main.7afa76c4.css",
+    "main.js": "/emailreactjs/static/js/main.ff598457.js",
+    "static/js/787.3e85f90c.chunk.js": "/emailreactjs/static/js/787.3e85f90c.chunk.js",
+    "index.html": "/emailreactjs/index.html",
+    "main.7afa76c4.css.map": "/emailreactjs/static/css/main.7afa76c4.css.map",
+    "main.ff598457.js.map": "/emailreactjs/static/js/main.ff598457.js.map",
+    "787.3e85f90c.chunk.js.map": "/emailreactjs/static/js/787.3e85f90c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7afa76c4.css",
+    "static/js/main.ff598457.js"
+  ]
+}
